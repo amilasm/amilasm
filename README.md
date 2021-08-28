@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-IT20124830- amilasm
+### IT20124830- amilasm
 
  I’m Currently Succeeding in a Bachelors's Degree in Software Engineering at SLIIT and Doing Video Editing & Cinematography for the Profession.
  
