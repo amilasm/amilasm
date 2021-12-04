@@ -22,6 +22,9 @@
 - <a href="https://theairpix.com//">The AirPix</a> 🌐
 - <a href="mailto:i.amilasampath1400@gmail.com">E-mail</a> 📧
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akilakavinda99&label=Profile%20views&color=0e75b6&style=flat" alt="akilakavinda99" /> </p>
+
 ### My GitHub Stats
 
 ![amilasm's GitHub stats](https://github-readme-stats.vercel.app/api?username=amilasm&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=false)
