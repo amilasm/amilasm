@@ -23,7 +23,7 @@
 - <a href="mailto:i.amilasampath1400@gmail.com">E-mail</a> 📧
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akilakavinda99&label=Profile%20views&color=0e75b6&style=flat" alt="akilakavinda99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amilasm&label=Profile%20views&color=0e75b6&style=flat" alt="amilasm" /> </p>
 
 ### My GitHub Stats
 
