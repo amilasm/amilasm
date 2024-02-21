@@ -1,12 +1,34 @@
 [![Amila's GitHub Banner](https://i.postimg.cc/9XGd2ngS/Amila-2.jpg)](https://amilasm.theairpix.com/)
-
 <div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=777&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Technophile+<3+|+<Developer/>">
 
 [![Visits Badge](https://badges.pufler.dev/visits/amilasm/amilasm)](https://amilasm.theairpix.com/)
 [![X Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Amilasampath140)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amila-sampath-807867198/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+
+  ### 🤝🏻 Find me on:
+  <div>
+    <a href="https://www.linkedin.com/in/sxchintha/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/sxchintha/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.facebook.com/sxchintha/">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    </a> <br>
+    <a href="mailto:sachinthasl99@gmail.com?">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.hackerrank.com/sachinthasl99">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    </a>
+    <a href="https://stackoverflow.com/users/16833492/sxchintha">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+    </a>
+  </div>
 
 Hey there 👋
 
@@ -90,7 +112,7 @@ Want to know more about me? [Check out my portfolio.](https://amilasm.theairpix.
 
 <br>
 ### 👨‍💻 Tech Stack:
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
