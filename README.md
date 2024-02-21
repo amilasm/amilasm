@@ -2,11 +2,12 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=777&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Technophile+<3+|+<Developer/>">
+<br>
 
 [![Visits Badge](https://badges.pufler.dev/visits/amilasm/amilasm)](https://amilasm.theairpix.com/)
 [![X Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Amilasampath140)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amila-sampath-807867198/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://codepen.io/braydoncoyer)
 
   ### 🤝🏻 Find me on:
   <div>
@@ -111,8 +112,9 @@ Want to know more about me? [Check out my portfolio.](https://amilasm.theairpix.
 </details>
 
 <br>
-### 👨‍💻 Tech Stack:
-  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+ ### 👨‍💻 Tech Stack:
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
