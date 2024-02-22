@@ -1,10 +1,7 @@
 [![Amila's GitHub Banner](https://i.postimg.cc/9XGd2ngS/Amila-2.jpg)](https://amilasm.theairpix.com/)
 <div align="center">
 
-<div style="width: fit-content; height: fit-content; background: radial-gradient(circle, #E9EFEF, #E680E8, #A3C4F1, #E480EB); padding: 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=inter&color=E680E8&size=30&center=true&vCenter=true&lines=A+Passionate+Learner!;Technophile+<3+|+<Developer/>" style="background-clip: text; -webkit-background-clip: text; color: transparent; text-fill-color: transparent;">
-</div>
-
+<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 200'%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23E9EFEF' font-family='Inter' font-size='20' dy='0' dx='-25' style='animation: typing 3s steps(20, end), blink-caret .5s step-end infinite alternate;'%3EA Passionate Learner!%3C/ text%3E%3Ctext x='50%25' y='60%25' dominant-baseline='middle' text-anchor='middle' fill='%23E480EB' font-family='Inter' font-size='20' dy='0' dx='-25' style='animation: typing 3s steps(20, end), blink-caret .5s step-end infinite alternate;'%3ETechnophile%20%3C3%20%7C%20%3CDeveloper/%3E%3C/ text%3E%3Cstyle%3E%40keyframes typing%20%7B%0A0%25%20%7B%20width%3A%200%25%3B%20%7D%0A%7D%0A%40keyframes%20blink-caret%20%7B%0A50%25%20%7B%20border-color%3A%20transparent%3B%20%7D%0A%7D%0A%3C/style%3E%3C/svg%3E">
 
 <br>
 
