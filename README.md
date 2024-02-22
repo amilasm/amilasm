@@ -2,8 +2,9 @@
 <div align="center">
 
 <div style="width: fit-content; height: fit-content; background: radial-gradient(circle, #E9EFEF, #E680E8, #A3C4F1, #E480EB); padding: 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=inter&color=E680E8&size=50&center=true&vCenter=true&lines=A+Passionate+Learner!;Technophile+<3+|+<Developer/>">
+    <img src="https://readme-typing-svg.herokuapp.com?font=inter&color=E680E8&size=30&center=true&vCenter=true&lines=A+Passionate+Learner!;Technophile+<3+|+<Developer/>" style="background-clip: text; -webkit-background-clip: text; color: transparent; text-fill-color: transparent;">
 </div>
+
 
 <br>
 
