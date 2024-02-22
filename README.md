@@ -4,14 +4,21 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=777&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Technophile+<3+|+<Developer/>">
 <br>
 
+<div align="justify">
+
+Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
+
+I’m Amila, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+
+Want to know more about me? [Check out my portfolio.](https://amilasm.theairpix.com/)
+</div>
+<br>
+
 [![Visits Badge](https://badges.pufler.dev/visits/amilasm/amilasm)](https://amilasm.theairpix.com/)
-[![X Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Amilasampath140)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amila-sampath-807867198/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://codepen.io/braydoncoyer)
 
   ### 🤝🏻 Find me on:
   <div>
-    <a href="https://www.linkedin.com/in/sxchintha/">
+    <a href="https://www.linkedin.com/in/amila-sampath-807867198/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/sxchintha/">
@@ -31,13 +38,6 @@
     </a>
   </div>
 
-Hey there 👋
-
-I’m Amila, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
-
-Want to know more about me? [Check out my portfolio.](https://amilasm.theairpix.com/)
-
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
