@@ -3,13 +3,20 @@
 
 <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 200'%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23E9EFEF' font-family='Inter' font-size='20' dy='0' dx='-25' style='animation: typing 3s steps(20, end), blink-caret .5s step-end infinite alternate;'%3EA Passionate Learner!%3C/ text%3E%3Ctext x='50%25' y='60%25' dominant-baseline='middle' text-anchor='middle' fill='%23E480EB' font-family='Inter' font-size='20' dy='0' dx='-25' style='animation: typing 3s steps(20, end), blink-caret .5s step-end infinite alternate;'%3ETechnophile%20%3C3%20%7C%20%3CDeveloper/%3E%3C/ text%3E%3Cstyle%3E%40keyframes typing%20%7B%0A0%25%20%7B%20width%3A%200%25%3B%20%7D%0A%7D%0A%40keyframes%20blink-caret%20%7B%0A50%25%20%7B%20border-color%3A%20transparent%3B%20%7D%0A%7D%0A%3C/style%3E%3C/svg%3E">
 
-<br>
-
 <div align="justify">
 
 Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
-I’m Amila, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Amila Sampath, a Software Engineer based in Sri Lanka, deeply passionate about leveraging technology to solve real-world problems. With a degree in Information Technology, specializing in Software Engineering from SLIIT, I have nurtured a solid foundation in both theoretical and practical aspects of software development. In my professional journey, I have had the opportunity to work with emerging technologies across different sectors, from eCommerce to digital content management and even IoT projects. This exposure has not only enhanced my technical skills but also enriched my problem-solving techniques and project management abilities.
+
+  ### 🤝🏻 Here’s what I do:
+  🌐 Web Application Development
+  🔗 Technology Integration
+  💡 Innovative Problem Solving
+  🛠️ Project Leadership
+  🖼️ Digital Creation 
+
+  <br>
 
 Want to know more about me? [Check out my portfolio.](https://amilasm.theairpix.com/)
 </div>
@@ -36,7 +43,7 @@ Want to know more about me? [Check out my portfolio.](https://amilasm.theairpix.
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
     <a href="https://api.whatsapp.com/send?phone=94774567518">
-      <img src="https://img.shields.io/badge/Whatsapp-FF0000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Whatsapp-3DDC84?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
     <a href="https://gitlab.com/amilasm">
       <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
