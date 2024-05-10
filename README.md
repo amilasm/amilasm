@@ -5,24 +5,18 @@
 
 <div align="justify">
 
-Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
+<h4>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"></h4>
 
-I’m Amila Sampath, a Software Engineer based in Sri Lanka, deeply passionate about leveraging technology to solve real-world problems. With a degree in Information Technology, specializing in Software Engineering from SLIIT, I have nurtured a solid foundation in both theoretical and practical aspects of software development. In my professional journey, I have had the opportunity to work with emerging technologies across different sectors, from eCommerce to digital content management and even IoT projects. This exposure has not only enhanced my technical skills but also enriched my problem-solving techniques and project management abilities.<br>
+<h4>I’m Amila Sampath, a Software Engineer based in Sri Lanka, deeply passionate about leveraging technology to solve real-world problems. With a degree in Information Technology, specializing in Software Engineering from SLIIT, I have nurtured a solid foundation in both theoretical and practical aspects of software development. In my professional journey, I have had the opportunity to work with emerging technologies across different sectors, from eCommerce to digital content management and even IoT projects. This exposure has not only enhanced my technical skills but also enriched my problem-solving techniques and project management abilities.</h4><br>
 
-  ### Here’s what I do:
-  🌐 Web Application Development<br>
-  🔗 Technology Integration<br>
-  💡 Innovative Problem Solving<br>
-  🛠️ Project Leadership<br>
-  🖼️ Digital Creation 
+  ### 🔍Here’s what I do:
+  🌐 Web Application Development | 🔗 Technology Integration | 💡 Innovative Problem Solving | 🛠️ Project Leadership | 🖼️ Digital Creation 
 
   <br>
 
 Want to know more about me? [Check out my portfolio.](https://amilasm.theairpix.com/)
 </div>
 <br>
-
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/amilasm/amilasm)](https://amilasm.theairpix.com/) -->
 
   ### 🤝🏻 Find me on:
   <div>
